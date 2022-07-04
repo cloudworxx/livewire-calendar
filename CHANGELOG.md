@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.2.0
+
+- Added support for PHP 8 without illuminate/support
+
 ## 2.1.0 - 2021-01-25
 
 - Added support for PHP 8
