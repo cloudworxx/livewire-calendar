@@ -1,11 +1,11 @@
 {
-    "name": "asantibanez/livewire-calendar",
+    "name": "cloudworxx/livewire-calendar",
     "description": "Laravel Livewire calendar component",
     "keywords": [
-        "asantibanez",
+        "cloudworxx",
         "livewire-calendar"
     ],
-    "homepage": "https://github.com/asantibanez/livewire-calendar",
+    "homepage": "https://github.com/cloudworxx/livewire-calendar",
     "license": "MIT",
     "type": "library",
     "authors": [
